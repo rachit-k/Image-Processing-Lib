@@ -1,0 +1,1 @@
+void subsampling(float **A, int a, int n, float **B,int flag);

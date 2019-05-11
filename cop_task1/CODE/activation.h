@@ -1,0 +1,1 @@
+void activation(float **A,int a, int b,int flag) ;

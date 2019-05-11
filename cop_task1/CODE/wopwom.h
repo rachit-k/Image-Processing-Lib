@@ -1,0 +1,1 @@
+void wopwom(float** X,float** Y,int a,int b, float** Z);

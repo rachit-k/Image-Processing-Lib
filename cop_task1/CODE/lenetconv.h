@@ -1,0 +1,1 @@
+void lenetconv(float** X,float**Y,int a,int b,float** L);

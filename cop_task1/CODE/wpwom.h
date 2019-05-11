@@ -1,0 +1,1 @@
+void wpwom(float** X,float** Y,int a,int b,int ps, float** Z);
